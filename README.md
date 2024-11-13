@@ -43,5 +43,5 @@ The **Forex Rate Prediction Application** is a Python-based tool designed to pre
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/forex-predictor.git
+git clone https://github.com/zapabob/forex-predictor.git
 cd forex-predictor
